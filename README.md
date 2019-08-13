@@ -36,7 +36,7 @@
 - tipo de contenido.
 - el contenido.
 ## respuesta 9
-![imagen](http://2.bp.blogspot.com_jUCZth_DkjU/TID-jk9rwcl/AAAAAAAAAAQ/3JNIssF_KeQ/s1600/protocolo.png)
+![imagen](https://image.slidesharecdn.com/jatunandjavaee-110905104600-phpapp02/95/desarrollo-de-aplicaciones-empresariales-con-java-ee-4-728.jpg?cb=1316098712)
 ## respuesta 10
 
 - Método doDelete: realiza la operación DELETE de http. La operación delete permite al cliente una petición para borrar un URI del servidor.
