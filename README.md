@@ -21,12 +21,12 @@
 - Escalabilidad horizontal, que se refiere a aumentar el número de componentes.
 ## respuesta 5
 ### Servidor web es una computadora que formando red provee 
-###servicios a otras computadoras denominadas clientes.
+### servicios a otras computadoras denominadas clientes.
 
 ### Un servidor de aplicaciones es un dispositivo que proporcionan 
-###servicios de aplicación a las computadoras cliente.
+### servicios de aplicación a las computadoras cliente.
 ### Un servidor de aplicaciones generalmente gestiona la mayor 
-###parte de las funciones de la lógica de negocio y acceso a los 
+### parte de las funciones de la lógica de negocio y acceso a los 
 ### datos de la aplicación.
 ## respuesta 6
 ![imagen](http://2.bp.blogspot.com/_jUCZth_DkjU/TID-jK9rWcI/AAAAAAAAAAQ/3JNIssF_KeQ/s1600/protocolo.png)
