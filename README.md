@@ -1,11 +1,6 @@
 # practica Nº 1
 ## respuesta 1
-### Un Sistema de Información Empresarial es un sistema impacto muy 
-### importante en el funcionamiento de la organización o negocio y
- ### cuya falla traería graves consecuencias. Normalmente que ofrece
-  ### alta calidad de servicio, gestiona con grandes volúmenes de 
-  ### datos, disponible de forma continua y es capaz de soportar
-   ### cualquier organización grande.
+### Un Sistema de Información Empresarial es un sistema impacto muy importante en el funcionamiento de la organización o negocio y cuya falla traería graves consecuencias. Normalmente que ofrece alta calidad de servicio, gestiona con grandes volúmenes de datos, disponible de forma continua y es capaz de soportar cualquier organización grande.
 ## respuesta 2
 - acceso a la base de datos de datos, usualmente a bases de datos.
 - operaciones transaccionales, cumple con las propiedades.
