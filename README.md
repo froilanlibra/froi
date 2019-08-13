@@ -26,7 +26,7 @@
 ### Un servidor de aplicaciones generalmente gestiona la mayor ###parte de las funciones de la lógica de negocio y acceso a los 
 ### datos de la aplicación.
 ## respuesta 6
-![imagen](http://2.bp.blogspot.com_jUCZth_DkjU/TID-jk9rwcl/AAAAAAAAAAQ/3JNIssF_KeQ/s1600/protocolo.png)
+![imagen](http://2.bp.blogspot.com/_jUCZth_DkjU/TID-jK9rWcI/AAAAAAAAAAQ/3JNIssF_KeQ/s1600/protocolo.png)
 ## respuesta 7
 - método http protocolo empleado para la transferencia de recursos que componen una web ( la acción a realizar).
 - la página para acceder (a url).
